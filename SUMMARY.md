@@ -37,5 +37,10 @@
   * [5.7 Elastic](5-elastic-essential-i/5.7-elastic.md)
   * [5.8 Elastic](5-elastic-essential-i/5.8-elastic.md)
   * [5.9 Conclusão do treinamento](5-elastic-essential-i/5.9-conclusao-do-treinamento.md)
-* [6 Spark - Big Data Processing](6-spark-big-data-processing.md)
+* [6 Spark](6-spark-big-data-processing/README.md)
+  * [6.1 Introdução](6-spark-big-data-processing/6.1-introducao.md)
+  * [6.2 Spark](6-spark-big-data-processing/6.2-spark.md)
+  * [6.3 Spark](6-spark-big-data-processing/6.3-spark.md)
+  * [6.4 Spark](6-spark-big-data-processing/6.4-spark.md)
+  * [6.5 Spark](6-spark-big-data-processing/6.5-spark.md)
 
