@@ -1,5 +1,7 @@
 # Semantix
 
+[Gitbook desse projeto](https://daniellecd.gitbook.io/big-data-engineer/)
+
 ## 1. Conteúdo programático
 
 O Treinamento tem duração de 11 semanas \(19/04/2021 à 02/07/2021\) e formado por 6 módulos, com a seguinte divisão:
